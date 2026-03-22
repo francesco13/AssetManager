@@ -21,7 +21,7 @@
       "purpose": "any"
     },
     {
-      "src": "icons/lanchericon-512.png",
+      "src": "icons/maskable-icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
